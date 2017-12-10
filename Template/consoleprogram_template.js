@@ -1,4 +1,5 @@
 var programname = "Console Program Template";
+var program_desc = "This program is a basic template for starting a new project for Console V."
 function programuserinput()
 {
     switch (clearType.firstWord)
