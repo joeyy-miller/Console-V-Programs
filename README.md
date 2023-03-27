@@ -15,6 +15,7 @@ Finally, edit the programuserinput which is where input from the user will be se
 
 From consoleprogram_template.js about iJD ClearType:
 
+```
 HOW TO USE CLEARTYPE v1.0 (Console V's user-input parsing system)
 Example user input:
 echo test -b -i This is a bold AND italic line!
@@ -25,6 +26,7 @@ echo test -b -i This is a bold AND italic line!
  |   |    firstFlag & secondFlag
  |   secondWord
 firstWord
+```
 
 Quick Access vars Available via clearType:
 firstWord, secondWord, thirdWord. 
